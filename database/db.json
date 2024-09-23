@@ -1,0 +1,29 @@
+{
+    "auth":[
+        {
+        "id":"1",
+        "fname":"John",
+        "lname":"Doe",
+        "email":"john.doe@gmail.com",
+        "password":"Ab123"
+       }
+    ],
+    "product":[
+        {
+            "id":"1",
+            "prod_name":"Mobile",
+            "price":"34567",
+            "company":"Samsung",
+            "description":"Personal smart phone",
+            "color":"Red"
+        },
+        {
+            "id":"aced",
+            "prod_name":"Laptop",
+            "price":"54324",
+            "company":"Lenovo",
+            "description":"Personal computer",
+            "color":"Black"
+        }
+    ]
+}
